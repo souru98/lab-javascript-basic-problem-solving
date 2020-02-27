@@ -34,8 +34,6 @@ if (l < l2) {
     console.log("Wow, you both have equally long names, XX characters!");
 
 
-
-
 // 2.2. Check if the string contains vowels or not.
 // - If it contains vowels, print the number of name, and also print the vowel letters along with the vowel characters. or
 // - print no vowels
@@ -166,7 +164,5 @@ for (i = 0, j = length - 1; i < j; i++, j--) {
 if (i > j) {
     console.log("Palindrome");
 }
-
-
 
 // Hint: If you use Google to help you to find solution to this iteration, you might run into some solutions that use advanced string or array methods (such as join(), reverse(), etc.). However, try to apply the knowledge you currently have since you can build pretty nice solution with just using for loop, if-else statements with some break and continue... Just sayin'
